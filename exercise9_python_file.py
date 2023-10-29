@@ -1,0 +1,1 @@
+print("Hello. This is the text in the exercise_python_file.py")
